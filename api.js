@@ -3,7 +3,7 @@ const pergunta = document.getElementById("pergunta");
 // const resultado pega pelo id atraves do DOM
 const resultado = document.getElementById("resultado");
 // Mantem a chave da API guardada
-const OPEN_API_KEY = "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"
+const OPEN_API_KEY = "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"
 
 // Se a pergunta tiver valor e o "Enter" for pressionado ele executa a função 
 pergunta.addEventListener("keypress", (e)=>{
